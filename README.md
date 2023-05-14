@@ -30,7 +30,7 @@ Example: `📦 hive - v.1.2.3`
 
 ## Titles:
 
-Titles should include an emoji, the repository/project name, dash (-) as a separator, and then the version. For the version number, follow the guidelines of Semantic Versioning. More information on Semantic Versioning can be found on the [official website]([url](https://semver.org). The summary gives a quick and basic overview of the system.
+Titles should include an emoji, the repository/project name, dash (-) as a separator, and then the version. For the version number, follow the guidelines of Semantic Versioning. More information on Semantic Versioning can be found on the [official website](https://semver.org). The summary gives a quick and basic overview of the system.
 
 ## Tags:
 Tags should always be the version number of the release. They too, should follow Semantic Versioning.
