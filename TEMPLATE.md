@@ -18,7 +18,7 @@
 -->
 
 <div align = 'center'>
-    <h1> project name - v.1.2.3 </h1>
+    <h1> project name - v1.2.3 </h1>
   Short description of <code>project name</code>.
 </div>
 
