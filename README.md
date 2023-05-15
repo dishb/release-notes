@@ -26,7 +26,7 @@
 
 📦 \<name\> - \<version\>
 
-Example: `📦 hive - v1.2.3`
+Example: `📦 release-notes - v1.2.3`
 
 ## Titles:
 
