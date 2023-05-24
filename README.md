@@ -36,7 +36,7 @@ Titles should include an emoji, the repository/project name, dash (-) as a separ
 Tags should always be the version number of the release. They too, should follow Semantic Versioning.
 
 ## Content:
-At the top of the release notes should be a summary of why this release was made. This would include things like new features, why the features were added, or if any bugs were fixed. Release notes should list every new commit (by commit name/ID) since the last release and the commits' titles. Under that should be a list of features the project currently has. This should include every feature, even old ones that have existed since previous releases. There should be a list of all the contributors of the project. At the bottom should be a section that states the project's license and where it can be found in the project or online.
+At the top of the release notes should be a summary of why this release was made. This would include things like new features, why the features were added, or if any bugs were fixed. An optional piece would be a list every new commit (by commit name/ID) since the last release and the commits' titles. Under that should be a list of features the project currently has. This should include every feature, even old ones that have existed since previous releases. There should be a list of all the contributors of the project. At the bottom should be a section that states the project's license and where it can be found in the project or online.
 
 ## Examples:
 An example/template file can be found in `./TEMPLATE.md`.
