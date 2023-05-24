@@ -18,7 +18,7 @@
 -->
 
 <div align = 'center'>
-    <h1> project name - v1.2.3 </h1>
+    <h1> 📦 project name - v1.2.3 </h1>
   Short description of <code>project name</code>.
 </div>
 
@@ -29,13 +29,6 @@ What does this release accomplish? List what new features were added, why they w
 
 ## Features:
 List all the features of your project. This should include features that have existed since previous releases.
-
-## Commits:
-List all the commits by their ID and add their title. Link the ID to the `https://github.com/username/repository/commit/id`.
-List the commits by oldest at the top to newest at the bottom.
-
-- [109d0b4](https://github.com/dishb/release-notes/commit/f7686240247ae843f240e45b341bc5224eccfa6f) - 🎉 [init] added README.md content
-- [92be492](https://github.com/dishb/release-notes/commit/92be492abd1520cca6cea0f323dca2883792082c) - 🎉 [init] added license
 
 ## Contributors
 List every contributor of the project by username:
