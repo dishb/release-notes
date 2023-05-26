@@ -29,6 +29,9 @@ What does this release accomplish? List what new features were added, why they w
 
 ## Features:
 List all the features of your project. This should include features that have existed since previous releases.
+- feature 1
+- feature 2
+- feature 3
 
 ## Contributors
 List every contributor of the project by username:
